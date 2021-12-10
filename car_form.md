@@ -44,13 +44,13 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 
 
 ### __ruote__
-* pneumatici |
-* materiale cerchioni |
-* raggi |
-* diametro cerchioni (mm) |
+* pneumatici | WARCHAR(255) - NULL [Michelin]
+* materiale cerchioni | WARCHAR(255) - NULL [Ceri_in_lega]
+* raggi | TINYINT - NULL [7]
+* diametro cerchioni (inches) | TINYINT - NULL [18]
 
 ### __optional__
-* volante in pelle |
+* volante in pelle | 
 * controlli volante |
 * vetri oscurati |
 * vetri anti-proiettile |
