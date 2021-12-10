@@ -8,6 +8,15 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 ##Scheda auto:
 
 ###__info principali__
+*numero di serie |
+*serie limitata |
+*marca |
+*modello |
+*tipologia
+*anno di immatricolazione |
+*condizione |
+*proprietari |
+*km |
 
 ###__prestazioni__
 
