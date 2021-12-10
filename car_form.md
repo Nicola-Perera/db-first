@@ -50,6 +50,16 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 * diametro cerchioni (mm) |
 
 ### __optional__
+* volante in pelle |
+* controlli volante |
+* vetri oscurati |
+* vetri anti-proiettile |
+* ABS |
+* lanciarazzi anteriore |
+* Cruise control |
+* Servosterzo |
+* climatizzatore |
+* specchietti elettrici |
 
 
 
