@@ -32,15 +32,15 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 * peso massimo (kg) | SMALLINT - NULL [1.925]
 
 ### __aspetto__
-* lunghezza (mm) |
-* larghezza (mm) |
-* altezza (mm) |
-* colore principale |
-* colore secondario |
-* porte |
-* posti a sedere |
-* interni |
-* volume bagagliaio (l) |
+* lunghezza (mm) | SMALLINT - NULL [4.580]
+* larghezza (mm) | SMALLINT - NULL [1.755]
+* altezza (mm) | SMALLINT - NULL [1.470]
+* colore principale | VARCHAR(20) -NULL [NERO]
+* colore secondario | VARCHAR(20) - NULL [ORO]
+* porte | TINYINT - NOTNULL [3]
+* posti a sedere | TINYINT - NOTNULL [4]
+* interni | VARCHAR(30) - NULL [Pelle]
+* volume bagagliaio (l) | SMALLINT - NULL [430]
 
 
 ### __ruote__
