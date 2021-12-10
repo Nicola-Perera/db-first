@@ -8,15 +8,15 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 ## Scheda auto:
 
 ### __info principali__
-* numero di serie |
-* serie limitata |
-* marca |
-* modello |
-* tipologia
-* immatricolazione |
-* condizione |
-* proprietari |
-* km |
+* numero di serie | VARCHAR(17) - PRIMARY KEY - AUTO - UNIQUE - NOTNULL [WVW222AUZHP002856]
+* serie limitata (n/100) | TINYINT [33]
+* marca | VARCHAR(20) [MiniCooper]
+* modello | VARCHAR [MINI_Paceman_Mini_Cooper_D_Paceman]
+* tipologia | VARCHAR(30) [Station_Wagon]
+* immatricolazione | DATE [2013_07_11]
+* condizione | VARCHAR(20) [USATO]
+* proprietari | TINYINT [2]
+* distanza percorsa (km) | SMALLINT [87457]
 
 ### __prestazioni__
 * alimentazione |
