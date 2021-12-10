@@ -13,12 +13,23 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 *marca |
 *modello |
 *tipologia
-*anno di immatricolazione |
+*immatricolazione |
 *condizione |
 *proprietari |
 *km |
 
 ###__prestazioni__
+*alimentazione |
+*cambio |
+*rapporti |
+*consumo urbano |
+*consumo extraurbano |
+*consumo misto |
+*emissioni |
+*velocità massima (km/h) |
+*accelerazione (s) !
+*peso minimo (kg) |
+*peso massimo (kg) |
 
 ###__aspetto__
 
