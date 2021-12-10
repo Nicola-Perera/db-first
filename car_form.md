@@ -50,16 +50,16 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 * diametro cerchioni (inches) | TINYINT - NULL [18]
 
 ### __optional__
-* volante in pelle | 
-* controlli volante |
-* vetri oscurati |
-* vetri anti-proiettile |
-* ABS |
-* lanciarazzi anteriore |
-* Cruise control |
-* Servosterzo |
-* climatizzatore |
-* specchietti elettrici |
+* volante in pelle | TINYINT (vero/falso | 1/0) - NULL [1]
+* controlli volante | TINYINT (vero/falso | 1/0) - NULL [1]
+* vetri oscurati | TINYINT (vero/falso | 1/0) - NULL [0]
+* vetri anti-proiettile | TINYINT (vero/falso | 1/0) - NULL [1]
+* ABS | TINYINT (vero/falso | 1/0) - NULL [1]
+* lanciarazzi anteriore | TINYINT (vero/falso | 1/0) - NULL [0]
+* Cruise control | TINYINT (vero/falso | 1/0) - NULL [0]
+* Servosterzo | TINYINT (vero/falso | 1/0) - NULL [1]
+* climatizzatore | TINYINT (vero/falso | 1/0) - NULL [1]
+* specchietti elettrici | TINYINT (vero/falso | 1/0) - NULL [0]
 
 
 
