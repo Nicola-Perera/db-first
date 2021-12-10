@@ -32,9 +32,9 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 * peso massimo (kg) |
 
 ### __aspetto__
-* lunghezza (mm)|
-* larghezza (mm)|
-* altezza (mm)|
+* lunghezza (mm) |
+* larghezza (mm) |
+* altezza (mm) |
 * colore principale |
 * colore secondario |
 * porte |
@@ -44,6 +44,10 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 
 
 ### __ruote__
+* pneumatici |
+* materiale cerchioni |
+* raggi |
+* diametro cerchioni (mm) |
 
 ### __optional__
 
