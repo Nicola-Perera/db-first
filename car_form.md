@@ -7,3 +7,16 @@ Come fatto stamattina in classe potete fare un file di testo e scrivre la strutt
 
 ##Scheda auto:
 
+###__info principali__
+
+###__prestazioni__
+
+###__aspetto__
+
+###__ruote__
+
+###__optional__
+
+
+
+
